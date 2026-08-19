@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 # Julián Falvo
 ### Data Engineer & Entrepreneur
@@ -47,3 +47,4 @@
 </p>
 
 </div>
+](https://www.linkedin.com/in/julianfalvo/)
