@@ -14,8 +14,6 @@
 
 **Data Engineering** | Architecting robust data solutions, optimizing ETL pipelines, and implementing advanced cloud infrastructure. Currently focused on high-scale data environments at **Chevron**.
 
-**Entrepreneurship** | Founder & Brand Owner in the beauty sector. I bridge the gap between technical automation and business strategy, managing operations, leadership, and process scaling.
-
 ---
 
 ### 🛠️ Technical Expertise
