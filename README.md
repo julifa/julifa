@@ -6,11 +6,11 @@
 
 ##  About Me
 
-Results-oriented **Data Engineer** with a strong business acumen and a passion for building scalable, high-performance data solutions. I thrive at the intersection of cloud engineering, ETL pipelines, and emerging AI technologies. Currently focused on workflow orchestration, cost optimization, and agentic AI frameworks to drive innovation in fintech and energy sectors.
+Results-oriented **Data Engineer** with strong business acumen and a passion for building scalable, high-performance data solutions. I thrive at the intersection of cloud engineering, ETL pipelines, and emerging AI technologies. Currently focused on workflow orchestration, cost optimization, and agentic AI frameworks.
 
 -  I’m currently working as a **Cloud Integration Engineer** at **Chevron**, optimizing Azure services and reducing execution times by 20%.
--  I’m continuously exploring **Agentic AI** tools like **MCPS**, **Claude Code**, and **OpenCode** to automate complex data workflows.
--  Ask me about **ETL**, **Cloud Computing**, **Snowflake**, or **AI-driven automation**.
+-  I’m actively exploring **Agentic AI** tools like **MCP (Model Context Protocol)** and **Claude Code** to automate complex data workflows.
+-  Ask me about **ETL**, **Cloud Architecture**, **Snowflake**, or **AI-driven automation**.
 -  Reach me at **julianfalvo@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/julianfalvo).
 
 ---
@@ -43,9 +43,8 @@ Results-oriented **Data Engineer** with a strong business acumen and a passion f
 ![MicroStrategy](https://img.shields.io/badge/MicroStrategy-8B0000?style=flat&logo=microstrategy&logoColor=white)
 
 ###  Agentic AI & Automation
-![MCPS](https://img.shields.io/badge/MCPS-000000?style=flat&logo=ai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=ai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-7C3AED?style=flat&logo=anthropic&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-00A86B?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-FF6B00?style=flat&logo=microsoft&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-6C5CE7?style=flat&logo=ai&logoColor=white)
@@ -53,62 +52,50 @@ Results-oriented **Data Engineer** with a strong business acumen and a passion f
 
 ---
 
-##  Experience
+##  Professional Experience
 
-### **Chevron** – *Data Engineer / Cloud Integration Engineer*  
+### **Chevron** – *Cloud Integration / Data Engineer*  
 *Dec 2024 – Present*  
-- Orchestrated workflows using **Azure Logic Apps** and managed asynchronous messaging with **Azure Service Bus**.  
-- Automated software lifecycle via **Azure DevOps** and Git repositories.  
-- **Achieved 30% cost reduction** on App Service Plans and **20% faster execution** of Logic Apps through optimization.
+- Orchestrate enterprise workflows using **Azure Logic Apps** and manage asynchronous messaging via **Azure Service Bus**.  
+- Automate software lifecycles and CI/CD pipelines using **Azure DevOps** and Git.  
+- Achieved a **30% cost reduction** on App Service Plans and a **20% boost in execution speed** for critical Logic Apps through deep optimization.
 
 ### **Capgemini Engineering** – *Data & AI Engineer*  
 *Feb 2023 – Dec 2024*  
-- Developed and optimized ETL pipelines processing large datasets, **reducing processing time by 15%**.  
-- Implemented robust data quality controls ensuring data integrity for critical business decisions.
+- Developed and optimized large-scale ETL pipelines, **cutting processing times by 15%**.  
+- Implemented robust data quality frameworks to ensure high integrity for business-critical analytics.
 
 ### **We Plan** – *Data Engineer*  
 *Jun 2022 – Feb 2023*  
-- Increased data processing speed by **20%** via architecture optimization and real-time solutions.  
-- Designed scalable data architecture to support business growth and increasing data volumes.
+- Increased overall data processing speed by **20%** through structural architecture optimization and real-time solutions.  
+- Designed scalable data models to support rapid volume growth.
 
 ### **PwC** – *Risk Assurance Services – Associate*  
 *May 2021 – Jun 2022*  
-- Delivered **5% reduction** in cloud costs through comprehensive cost optimization audits and implementation of cost-saving strategies.
+- Delivered a **5% reduction** in cloud operational costs via multi-cloud auditing and targeted efficiency strategies.
 
 ---
 
 ##  Featured Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Cloud Cost Optimization Audit** | Led a cloud cost audit at PwC, identifying savings of 5% across multi-cloud environments. | Azure, AWS, Cost Management Tools |
-| **ETL Pipeline Modernization** | Revamped ETL pipelines at Capgemini, cutting processing time by 15% and improving data quality. | SSIS, Kettle, Snowflake, Python |
-| **Real-Time Data Architecture** | Built a scalable real-time data architecture at We Plan, boosting speed by 20%. | Kafka, DynamoDB, Azure Functions |
-| **Agentic AI Workflow Assistant** | Developed a prototype using MCPS and Claude Code to automate data ingestion and transformation tasks. | MCPS, Claude Code, LangChain, Python |
+| :--- | :--- | :--- |
+| **Cloud Cost Optimization Audit** | Led a cloud cost audit identifying critical savings across complex multi-cloud environments. | Azure, AWS, Cost Management |
+| **ETL Pipeline Modernization** | Revamped legacy ETL pipelines, significantly dropping processing times and improving data quality. | SSIS, Kettle, Snowflake, Python |
+| **Real-Time Data Architecture** | Built a scalable real-time data architecture boosting ingestion and transformation speed. | Kafka, DynamoDB, Azure Functions |
+| **Agentic AI Workflow Assistant** | Developed an automated assistant prototype utilizing MCP and Claude Code to streamline data tasks. | MCP, Claude Code, LangChain, Python |
 
 ---
 
 ##  Education & Certifications
 
-- **Associate of Science in Computer Science** – *Center for Advanced Studies in Exact Sciences (CAECE)*, 2023–2025  
+- **Systems Engineering / Computer Science Studies** – *CAECE*, 2023–2025  
 - **Senior 6 English** – *AACI – Argentine Association of English Culture*
 
 ---
 
-##  Contact
+##  Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-julianfalvo@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:julianfalvo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-julianfalvo%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:julianfalvo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-julianfalvo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianfalvo)
 [![Phone](https://img.shields.io/badge/Phone-+54%209%2011%203341--5481-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+5491133415481)
-
----
-
-##  GitHub Stats
-
-[![Julifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julifa&show_icons=true&theme=radical)](https://github.com/Julifa)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julifa&layout=compact&theme=radical)](https://github.com/Julifa)
-
----
-
-*Built with ❤️ and a lot of data.*
